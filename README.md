@@ -98,4 +98,4 @@ Configured a ServiceNow Personal Developer Instance as the ITSM ticketing layer:
 
 ## Notes
 
-This is a learning/portfolio project built independently to prepare for entry-level IT support and help desk roles, with a longer-term goal toward SOC Tier 1 work.
+This is a learning/portfolio project built independently to prepare for entry-level IT support and help desk roles.
