@@ -1,4 +1,4 @@
-# TechOps Homelab — IT Infrastructure & Ticketing System
+# TechOps Homelab - IT Infrastructure & Ticketing System
 
 A self-built homelab simulating a small business IT environment, covering Active Directory administration, network configuration, and IT service management (ITSM) ticketing — built to demonstrate practical help desk and desktop support skills.
 
